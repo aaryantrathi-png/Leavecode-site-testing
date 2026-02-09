@@ -1,0 +1,11 @@
+{
+  "name": "pn-automation",
+  "version": "1.0.0",
+  "description": "Minimal Playwright automation for LeaveCode",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  }
+}
